@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 448720563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order</source>
+          <target>Order</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - ReportDataItem 3356146180 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order</source>
+          <target>Purchase Order</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - ReportDataItem DataItem4458 - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target>No. of Copies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - Control 3662524380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target>Show Internal Information</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - Control ShowInternalInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - Control 3255118903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target>Archive Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - Control ArchiveDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Log Interaction</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - ReportLabel 2612850668" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Size</source>
+          <target>Size</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - ReportLabel CpnSize</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - ReportLabel 1942180861" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacturer Description</source>
+          <target>Manufacturer Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - ReportLabel CpnManuDesc</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - ReportLabel 4231524307" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Quantity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - ReportLabel CpnQty</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchaser</source>
+          <target>Purchaser</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1</source>
+          <target>Total %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl. VAT</source>
+          <target>Total %1 Incl. VAT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>COPY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order %1</source>
+          <target>Purchase Order %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <target>Page %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Excl. VAT</source>
+          <target>Total %1 Excl. VAT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Document Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 1877430892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target>E-Mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType EmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 3431652522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target>Home Page</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType HomePageCaptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 1928308579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target>Phone No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType PhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 674998214" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fax No.</source>
+          <target>Fax No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType FaxNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 1306668226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Reg. No.</source>
+          <target>VAT Reg. No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType VATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 2728952663" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <target>Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType BankNameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 4233096702" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <target>Account No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType BankAccNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 2219219549" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <target>Order No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType OrderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 1873750193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Branch No.</source>
+          <target>Bank Branch No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType BankBranchNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 1302573237" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Payment Terms</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType PaymentTermsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 3956110661" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <target>Shipment Method</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType ShipmentMethodCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 2887818394" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of Supply</source>
+          <target>Type of Supply</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType TypeOfSupplyCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 2400785612" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount %</source>
+          <target>Payment Discount %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType PaymentDiscountPercentCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 973567044" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Header Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType HeaderDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 4253417872" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Unit Cost</source>
+          <target>Direct Unit Cost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType DirectUnitCostCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 2161862435" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <target>Discount %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType DiscountPercentageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 3573196756" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Invoice Discount Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType InvDiscountAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 3126303398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <target>Subtotal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType SubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 534745102" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <target>Payment Discount on VAT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType VATDiscountAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 3701122699" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Line Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType LineDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 3884610169" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target>VAT %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType VATPercentageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 1303359398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <target>VAT Base</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType VATBaseCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 3913295325" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>VAT Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType VATAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 563704494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <target>VAT Amount Specification</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType VATAmtSpecificationCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 2012124496" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target>VAT Identifier</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType VATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 1378777375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <target>Invoice Discount Base Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType InvDiscBaseAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 1085275642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Line Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType LineAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 2605221851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Invoice Discount Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType InvoiceDiscountAmtCaption1Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 2893846144" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Details</source>
+          <target>Payment Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType PaymentDetailsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 132160432" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <target>Vendor No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType VendNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 448720563 - NamedType 232471621" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target>Ship-to Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order GB2 - NamedType ShiptoAddressCaptionLbl</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,1 @@
+//table 50045 ScaleExternalSqlTable created in C/Side
